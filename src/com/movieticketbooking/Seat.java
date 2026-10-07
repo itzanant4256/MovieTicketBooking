@@ -1,3 +1,5 @@
+package com.movieticketbooking;
+
 public class Seat {
 
     int seatNumber;

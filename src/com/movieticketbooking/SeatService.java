@@ -1,3 +1,5 @@
+package com.movieticketbooking;
+
 import java.util.ArrayList;
 import java.util.Scanner;
 

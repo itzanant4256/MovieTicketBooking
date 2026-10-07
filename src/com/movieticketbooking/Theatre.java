@@ -1,3 +1,5 @@
+package com.movieticketbooking;
+
 public class Theatre {
 
     int id;
